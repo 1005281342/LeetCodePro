@@ -8,6 +8,9 @@
 | 0380 | [常数时间插入、删除和获取随机元素]( https://leetcode-cn.com/problems/insert-delete-getrandom-o1/ ) | [Python]( src/p0380 ) |
 | 0434 | [字符串中单词数]( https://leetcode-cn.com/problems/number-of-segments-in-a-string/ ) | [Python]( src/p0434 ) |
 | 0495 | [提莫攻击]( https://leetcode-cn.com/problems/teemo-attacking/ ) | [Python]( src/p0495 ) |
+| 0674 | [最长连续递增序列]( https://leetcode-cn.com/problems/longest-continuous-increasing-subsequence/ ) | [Python]( src/p0674 ) |
+| 0724 | [寻找数组的中心索引]( https://leetcode-cn.com/problems/find-pivot-index/ ) | [Python]( src/p0724 ) |
 | 0830 | [较大分组的位置]( https://leetcode-cn.com/problems/positions-of-large-groups/ ) | [Python]( src/p0830 ) |
 | 0849 | [到最近的人的最大距离]( https://leetcode-cn.com/problems/maximize-distance-to-closest-person/ ) | [Python]( src/p0849 ) |
 | 0884 | [两句话中的不常见单词]( https://leetcode-cn.com/problems/uncommon-words-from-two-sentences/ ) | [Python]( src/p0884 ) |
+| 1053 | [交换一次的先前排列]( https://leetcode-cn.com/problems/previous-permutation-with-one-swap/ ) | [Python]( src/p1053 ) |
