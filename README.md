@@ -8,7 +8,10 @@
 | 0380 | [常数时间插入、删除和获取随机元素]( https://leetcode-cn.com/problems/insert-delete-getrandom-o1/ ) | [Python]( src/p0380 ) |
 | 0434 | [字符串中单词数]( https://leetcode-cn.com/problems/number-of-segments-in-a-string/ ) | [Python]( src/p0434 ) |
 | 0495 | [提莫攻击]( https://leetcode-cn.com/problems/teemo-attacking/ ) | [Python]( src/p0495 ) |
+| 0565 | [Array Nesting]( https://leetcode-cn.com/problems/array-nesting/ ) | [Go/Python]( src/p0565 ) |
+| 0670 | [Maximum Swap]( https://leetcode-cn.com/problems/maximum-swap/ ) | [Python]( src/p0670 ) |
 | 0674 | [最长连续递增序列]( https://leetcode-cn.com/problems/longest-continuous-increasing-subsequence/ ) | [Python]( src/p0674 ) |
+| 0697 | [Degree of an Array]( https://leetcode-cn.com/problems/degree-of-an-array/ ) | [Python]( src/p0697 ) |
 | 0724 | [寻找数组的中心索引]( https://leetcode-cn.com/problems/find-pivot-index/ ) | [Python]( src/p0724 ) |
 | 0830 | [较大分组的位置]( https://leetcode-cn.com/problems/positions-of-large-groups/ ) | [Python]( src/p0830 ) |
 | 0849 | [到最近的人的最大距离]( https://leetcode-cn.com/problems/maximize-distance-to-closest-person/ ) | [Python]( src/p0849 ) |
