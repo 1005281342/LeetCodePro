@@ -4,13 +4,18 @@
 | :---: | :---- | :------: |
 | 0001 | [两数之和]( https://leetcode-cn.com/problems/two-sum/ ) | [Python]( src/p0001 ) |
 | 0263 | [丑数]( https://leetcode-cn.com/problems/ugly-number/ ) | [Python]( src/p0263 ) |
+| 0278 | [First Bad Version]( https://leetcode-cn.com/problems/first-bad-version/ ) | [Python]( src/p0278 ) |
 | 0289 | [生命游戏]( https://leetcode-cn.com/problems/game-of-life/ ) | [Python]( src/p0289 ) |
 | 0380 | [常数时间插入、删除和获取随机元素]( https://leetcode-cn.com/problems/insert-delete-getrandom-o1/ ) | [Python]( src/p0380 ) |
+| 0382 | [Linked List Random Node]( https://leetcode-cn.com/problems/linked-list-random-node/ ) | [Python]( src/p0382 ) |
 | 0401 | [Binary Watch]( https://leetcode-cn.com/problems/binary-watch/ ) | [Python]( src/p0401 ) |
 | 0404 | [Sum of Left Leaves]( https://leetcode-cn.com/problems/sum-of-left-leaves/ ) | [Python]( src/p0404 ) |
 | 0434 | [字符串中单词数]( https://leetcode-cn.com/problems/number-of-segments-in-a-string/ ) | [Python]( src/p0434 ) |
+| 0453 | [Minimum Moves to Equal Array Elements]( https://leetcode-cn.com/problems/minimum-moves-to-equal-array-elements/ ) | [Python]( src/p0453 ) |
 | 0457 | [Circular Array Loop]( https://leetcode-cn.com/problems/circular-array-loop/ ) | [Python]( src/p0457 ) |
+| 0459 | [Repeated Substring Pattern]( https://leetcode-cn.com/problems/repeated-substring-pattern/ ) | [Python]( src/p0459 ) |
 | 0461 | [Hamming Distance]( https://leetcode-cn.com/problems/hamming-distance/ ) | [Python]( src/p0461 ) |
+| 0462 | [Minimum Moves to Equal Array Elements II]( https://leetcode-cn.com/problems/minimum-moves-to-equal-array-elements-ii/ ) | [Python]( src/p0462 ) |
 | 0495 | [提莫攻击]( https://leetcode-cn.com/problems/teemo-attacking/ ) | [Python]( src/p0495 ) |
 | 0501 | [Find Mode in Binary Search Tree]( https://leetcode-cn.com/problems/find-mode-in-binary-search-tree/ ) | [Python]( src/p0501 ) |
 | 0565 | [Array Nesting]( https://leetcode-cn.com/problems/array-nesting/ ) | [Go/Python]( src/p0565 ) |
@@ -32,6 +37,8 @@
 | 0888 | [Fair Candy Swap]( https://leetcode-cn.com/problems/fair-candy-swap/ ) | []( src/p0888 ) |
 | 0896 | [Monotonic Array]( https://leetcode-cn.com/problems/monotonic-array/ ) | [Python]( src/p0896 ) |
 | 0897 | [Increasing Order Search Tree]( https://leetcode-cn.com/problems/increasing-order-search-tree/ ) | [Python]( src/p0897 ) |
+| 0917 | [Reverse Only Letters]( https://leetcode-cn.com/problems/reverse-only-letters/ ) | [Python]( src/p0917 ) |
 | 0938 | [Range Sum of BST]( https://leetcode-cn.com/problems/range-sum-of-bst/ ) | [Python]( src/p0938 ) |
 | 0945 | [Minimum Increment to Make Array Unique]( https://leetcode-cn.com/problems/minimum-increment-to-make-array-unique/ ) | [Python]( src/p0945 ) |
 | 1053 | [交换一次的先前排列]( https://leetcode-cn.com/problems/previous-permutation-with-one-swap/ ) | [Python]( src/p1053 ) |
+| 1281 | [Subtract the Product and Sum of Digits of an Integer]( https://leetcode-cn.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/ ) | [Python]( src/p1281 ) |
