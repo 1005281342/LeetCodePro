@@ -13,7 +13,7 @@ def langs(problem):
         ('Go', ['golang', 'go']),
         ('Java', ['java']),
         ('JS', ['javascript', 'js']),
-        ('Python', ['python', 'py']),
+        ('Python', ['python', 'py', "python3", "Python3", "Python"]),
         ('Rust', ['rust', 'rs']),
         ('SQL', ['sql']),
         ('Shell', ['shell']),
