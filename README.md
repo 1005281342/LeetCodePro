@@ -4,12 +4,15 @@
 | :---: | :---- | :------: |
 | 0001 | [两数之和]( https://leetcode-cn.com/problems/two-sum/ ) | [Go/Python]( src/p0001 ) |
 | 0165 | [Compare Version Numbers]( https://leetcode-cn.com/problems/compare-version-numbers/ ) | [Python]( src/p0165 ) |
+| 0187 | [Repeated DNA Sequences]( https://leetcode-cn.com/problems/repeated-dna-sequences/ ) | [Python]( src/p0187 ) |
 | 0263 | [丑数]( https://leetcode-cn.com/problems/ugly-number/ ) | [Python]( src/p0263 ) |
+| 0274 | [H-Index]( https://leetcode-cn.com/problems/h-index/ ) | [Python]( src/p0274 ) |
 | 0278 | [First Bad Version]( https://leetcode-cn.com/problems/first-bad-version/ ) | [Python]( src/p0278 ) |
 | 0289 | [生命游戏]( https://leetcode-cn.com/problems/game-of-life/ ) | [Python]( src/p0289 ) |
 | 0328 | [Odd Even Linked List]( https://leetcode-cn.com/problems/odd-even-linked-list/ ) | [Python]( src/p0328 ) |
 | 0380 | [常数时间插入、删除和获取随机元素]( https://leetcode-cn.com/problems/insert-delete-getrandom-o1/ ) | [Python]( src/p0380 ) |
 | 0382 | [Linked List Random Node]( https://leetcode-cn.com/problems/linked-list-random-node/ ) | [Python]( src/p0382 ) |
+| 0398 | [Random Pick Index]( https://leetcode-cn.com/problems/random-pick-index/ ) | []( src/p0398 ) |
 | 0400 | [Nth Digit]( https://leetcode-cn.com/problems/nth-digit/ ) | [Python]( src/p0400 ) |
 | 0401 | [Binary Watch]( https://leetcode-cn.com/problems/binary-watch/ ) | [Python]( src/p0401 ) |
 | 0404 | [Sum of Left Leaves]( https://leetcode-cn.com/problems/sum-of-left-leaves/ ) | [Python]( src/p0404 ) |
