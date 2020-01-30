@@ -9,11 +9,14 @@
 | 0274 | [H-Index]( https://leetcode-cn.com/problems/h-index/ ) | [Python]( src/p0274 ) |
 | 0278 | [First Bad Version]( https://leetcode-cn.com/problems/first-bad-version/ ) | [Python]( src/p0278 ) |
 | 0289 | [生命游戏]( https://leetcode-cn.com/problems/game-of-life/ ) | [Python]( src/p0289 ) |
+| 0295 | [Find Median from Data Stream]( https://leetcode-cn.com/problems/find-median-from-data-stream/ ) | [Python]( src/p0295 ) |
 | 0328 | [Odd Even Linked List]( https://leetcode-cn.com/problems/odd-even-linked-list/ ) | [Python]( src/p0328 ) |
+| 0365 | [Water and Jug Problem]( https://leetcode-cn.com/problems/water-and-jug-problem/ ) | [Python]( src/p0365 ) |
 | 0374 | [Guess Number Higher or Lower]( https://leetcode-cn.com/problems/guess-number-higher-or-lower/ ) | [Python]( src/p0374 ) |
 | 0380 | [常数时间插入、删除和获取随机元素]( https://leetcode-cn.com/problems/insert-delete-getrandom-o1/ ) | [Python]( src/p0380 ) |
 | 0382 | [Linked List Random Node]( https://leetcode-cn.com/problems/linked-list-random-node/ ) | [Python]( src/p0382 ) |
 | 0386 | [Lexicographical Numbers]( https://leetcode-cn.com/problems/lexicographical-numbers/ ) | [Python]( src/p0386 ) |
+| 0396 | [Rotate Function]( https://leetcode-cn.com/problems/rotate-function/ ) | [Python]( src/p0396 ) |
 | 0398 | [Random Pick Index]( https://leetcode-cn.com/problems/random-pick-index/ ) | []( src/p0398 ) |
 | 0400 | [Nth Digit]( https://leetcode-cn.com/problems/nth-digit/ ) | [Python]( src/p0400 ) |
 | 0401 | [Binary Watch]( https://leetcode-cn.com/problems/binary-watch/ ) | [Python]( src/p0401 ) |
@@ -40,22 +43,29 @@
 | 0724 | [寻找数组的中心索引]( https://leetcode-cn.com/problems/find-pivot-index/ ) | [Python]( src/p0724 ) |
 | 0728 | [Self Dividing Numbers]( https://leetcode-cn.com/problems/self-dividing-numbers/ ) | [Python]( src/p0728 ) |
 | 0783 | [Minimum Distance Between BST Nodes]( https://leetcode-cn.com/problems/minimum-distance-between-bst-nodes/ ) | [Python]( src/p0783 ) |
+| 0786 | [K-th Smallest Prime Fraction]( https://leetcode-cn.com/problems/k-th-smallest-prime-fraction/ ) | [Python]( src/p0786 ) |
 | 0819 | [Most Common Word]( https://leetcode-cn.com/problems/most-common-word/ ) | [Python]( src/p0819 ) |
+| 0824 | [Goat Latin]( https://leetcode-cn.com/problems/goat-latin/ ) | [Python]( src/p0824 ) |
 | 0830 | [较大分组的位置]( https://leetcode-cn.com/problems/positions-of-large-groups/ ) | [Python]( src/p0830 ) |
 | 0835 | [Image Overlap]( https://leetcode-cn.com/problems/image-overlap/ ) | [Python]( src/p0835 ) |
 | 0836 | [Rectangle Overlap]( https://leetcode-cn.com/problems/rectangle-overlap/ ) | [Python]( src/p0836 ) |
 | 0840 | [Magic Squares In Grid]( https://leetcode-cn.com/problems/magic-squares-in-grid/ ) | [Python]( src/p0840 ) |
 | 0849 | [到最近的人的最大距离]( https://leetcode-cn.com/problems/maximize-distance-to-closest-person/ ) | [Python]( src/p0849 ) |
 | 0859 | [Buddy Strings]( https://leetcode-cn.com/problems/buddy-strings/ ) | [Python]( src/p0859 ) |
+| 0868 | [Binary Gap]( https://leetcode-cn.com/problems/binary-gap/ ) | [Python]( src/p0868 ) |
 | 0884 | [两句话中的不常见单词]( https://leetcode-cn.com/problems/uncommon-words-from-two-sentences/ ) | [Python]( src/p0884 ) |
 | 0888 | [Fair Candy Swap]( https://leetcode-cn.com/problems/fair-candy-swap/ ) | [Python]( src/p0888 ) |
 | 0896 | [Monotonic Array]( https://leetcode-cn.com/problems/monotonic-array/ ) | [Python]( src/p0896 ) |
 | 0897 | [Increasing Order Search Tree]( https://leetcode-cn.com/problems/increasing-order-search-tree/ ) | [Python]( src/p0897 ) |
 | 0917 | [Reverse Only Letters]( https://leetcode-cn.com/problems/reverse-only-letters/ ) | [Python]( src/p0917 ) |
+| 0933 | [Number of Recent Calls]( https://leetcode-cn.com/problems/number-of-recent-calls/ ) | [Python]( src/p0933 ) |
 | 0938 | [Range Sum of BST]( https://leetcode-cn.com/problems/range-sum-of-bst/ ) | [Python]( src/p0938 ) |
 | 0942 | [DI String Match]( https://leetcode-cn.com/problems/di-string-match/ ) | [Python]( src/p0942 ) |
 | 0945 | [Minimum Increment to Make Array Unique]( https://leetcode-cn.com/problems/minimum-increment-to-make-array-unique/ ) | [Python]( src/p0945 ) |
+| 0949 | [Largest Time for Given Digits]( https://leetcode-cn.com/problems/largest-time-for-given-digits/ ) | [Python]( src/p0949 ) |
 | 1037 | [Valid Boomerang]( https://leetcode-cn.com/problems/valid-boomerang/ ) | [Python]( src/p1037 ) |
 | 1053 | [交换一次的先前排列]( https://leetcode-cn.com/problems/previous-permutation-with-one-swap/ ) | [Python]( src/p1053 ) |
 | 1114 | [Print in Order]( https://leetcode-cn.com/problems/print-in-order/ ) | [Python]( src/p1114 ) |
+| 1162 | [As Far from Land as Possible]( https://leetcode-cn.com/problems/as-far-from-land-as-possible/ ) | [Python]( src/p1162 ) |
+| 1184 | [Distance Between Bus Stops]( https://leetcode-cn.com/problems/distance-between-bus-stops/ ) | [Python]( src/p1184 ) |
 | 1281 | [Subtract the Product and Sum of Digits of an Integer]( https://leetcode-cn.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/ ) | [Python]( src/p1281 ) |
