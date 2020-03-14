@@ -9,7 +9,7 @@ func twoSum(nums []int, target int) []int {
 		} else if target > nums[right]+nums[left] {
 			left += 1
 		} else {
-			return []int{left, right}
+			return []int{nums[left], nums[right]}
 		}
 	}
 	return []int{0, 0}
