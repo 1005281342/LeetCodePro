@@ -8,7 +8,7 @@ import os
 import shutil
 from collections import deque
 
-start = "/Users/v_jesonou/Desktop/baselib_help/src/vendor/gopkg.in"
+start = "/Users/v_jesonou/Desktop/baselib_help/src/github.com"
 
 
 def do():
