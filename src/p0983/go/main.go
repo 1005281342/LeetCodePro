@@ -18,7 +18,7 @@ func mincostTickets(days []int, costs []int) int {
 		)
 		index += 1
 	}
-	return dp[len(days)-1]
+	return dp[days[len(days)-1]]
 }
 
 func min(args ...int) int {
