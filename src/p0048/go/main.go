@@ -7,7 +7,7 @@ func rotate(matrix [][]int) {
 	//	for j := 0; i < (n >> 1); j++ {
 	//		matrix[i][j], matrix[i][n-1-j] = matrix[i][n-1-j], matrix[i][j]
 	//	}
-	//}
+	//}/
 	//
 	//// 2. 以右对角线进行对称翻转(不好处理)
 
