@@ -14,11 +14,24 @@ type ListNode struct {
 }
 
 func swapPairs(head *ListNode) *ListNode {
-	a := head
-	for a != nil && a.Next != nil {
-		t := a.Next.Next
-		a, a.Next = a.Next, a
-		a = t
+
+	if head == nil {
+		return nil
 	}
-	return head
+
+	var (
+		vn  *ListNode = &ListNode{Next: head}
+		p   *ListNode = vn
+		cur           = p.Next
+	)
+
+	for cur != nil && cur.Next != nil {
+		p.Next = cur.Next
+		cur.Next = cur.Next.Next
+		p.Next.Next = cur
+
+		p = cur
+		cur = cur.Next
+	}
+	return vn.Next
 }
