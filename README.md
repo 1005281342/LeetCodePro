@@ -3,11 +3,24 @@
 | Index | Title | Solution |
 | :---: | :---- | :------: |
 | 0001 | [两数之和]( https://leetcode-cn.com/problems/two-sum/ ) | [Go/Python]( src/p0001 ) |
+| 0002 | [Add Two Numbers]( https://leetcode-cn.com/problems/add-two-numbers/ ) | [Go]( src/p0002 ) |
+| 0003 | [Longest Substring Without Repeating Characters]( https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/ ) | [Go]( src/p0003 ) |
+| 0004 | [Median of Two Sorted Arrays]( https://leetcode-cn.com/problems/median-of-two-sorted-arrays/ ) | [Go]( src/p0004 ) |
 | 0005 | [Longest Palindromic Substring]( https://leetcode-cn.com/problems/longest-palindromic-substring/ ) | [Go]( src/p0005 ) |
+| 0006 | [ZigZag Conversion]( https://leetcode-cn.com/problems/zigzag-conversion/ ) | [Go]( src/p0006 ) |
+| 0007 | [Reverse Integer]( https://leetcode-cn.com/problems/reverse-integer/ ) | [Go]( src/p0007 ) |
 | 0008 | [String to Integer (atoi)]( https://leetcode-cn.com/problems/string-to-integer-atoi/ ) | [Python]( src/p0008 ) |
+| 0009 | [Palindrome Number]( https://leetcode-cn.com/problems/palindrome-number/ ) | []( src/p0009 ) |
+| 0012 | [Integer to Roman]( https://leetcode-cn.com/problems/integer-to-roman/ ) | [Go]( src/p0012 ) |
+| 0013 | [Roman to Integer]( https://leetcode-cn.com/problems/roman-to-integer/ ) | [Go]( src/p0013 ) |
+| 0015 | [3Sum]( https://leetcode-cn.com/problems/3sum/ ) | [Go]( src/p0015 ) |
+| 0016 | [3Sum Closest]( https://leetcode-cn.com/problems/3sum-closest/ ) | [Go]( src/p0016 ) |
+| 0017 | [Letter Combinations of a Phone Number]( https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/ ) | [Go]( src/p0017 ) |
+| 0018 | [4Sum]( https://leetcode-cn.com/problems/4sum/ ) | [Go]( src/p0018 ) |
+| 0019 | [Remove Nth Node From End of List]( https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/ ) | [Go]( src/p0019 ) |
 | 0021 | [Merge Two Sorted Lists]( https://leetcode-cn.com/problems/merge-two-sorted-lists/ ) | [Go]( src/p0021 ) |
 | 0023 | [Merge k Sorted Lists]( https://leetcode-cn.com/problems/merge-k-sorted-lists/ ) | [Python]( src/p0023 ) |
-| 0024 | [Swap Nodes in Pairs]( https://leetcode-cn.com/problems/swap-nodes-in-pairs/ ) | [Go]( src/p0024 ) |
+| 0024 | [Swap Nodes in Pairs]( https://leetcode-cn.com/problems/swap-nodes-in-pairs/ ) | [Go/Python]( src/p0024 ) |
 | 0025 | [Reverse Nodes in k-Group]( https://leetcode-cn.com/problems/reverse-nodes-in-k-group/ ) | [Go]( src/p0025 ) |
 | 0026 | [Remove Duplicates from Sorted Array]( https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/ ) | [Go]( src/p0026 ) |
 | 0035 | [Search Insert Position]( https://leetcode-cn.com/problems/search-insert-position/ ) | [Go/Python]( src/p0035 ) |
@@ -15,13 +28,15 @@
 | 0048 | [Rotate Image]( https://leetcode-cn.com/problems/rotate-image/ ) | [Go]( src/p0048 ) |
 | 0049 | [Group Anagrams]( https://leetcode-cn.com/problems/group-anagrams/ ) | [Python]( src/p0049 ) |
 | 0050 | [Pow(x, n)]( https://leetcode-cn.com/problems/powx-n/ ) | [Go/Python]( src/p0050 ) |
-| 0053 | [Maximum Subarray]( https://leetcode-cn.com/problems/maximum-subarray/ ) | [Go]( src/p0053 ) |
+| 0053 | [Maximum Subarray]( https://leetcode-cn.com/problems/maximum-subarray/ ) | [Go/Python]( src/p0053 ) |
 | 0055 | [Jump Game]( https://leetcode-cn.com/problems/jump-game/ ) | [Go]( src/p0055 ) |
 | 0056 | [Merge Intervals]( https://leetcode-cn.com/problems/merge-intervals/ ) | [Python]( src/p0056 ) |
 | 0070 | [Climbing Stairs]( https://leetcode-cn.com/problems/climbing-stairs/ ) | [Go]( src/p0070 ) |
 | 0071 | [Simplify Path]( https://leetcode-cn.com/problems/simplify-path/ ) | [Go]( src/p0071 ) |
 | 0072 | [Edit Distance]( https://leetcode-cn.com/problems/edit-distance/ ) | [Go]( src/p0072 ) |
 | 0076 | [Minimum Window Substring]( https://leetcode-cn.com/problems/minimum-window-substring/ ) | [Go]( src/p0076 ) |
+| 0084 | [Largest Rectangle in Histogram]( https://leetcode-cn.com/problems/largest-rectangle-in-histogram/ ) | []( src/p0084 ) |
+| 0097 | [Interleaving String]( https://leetcode-cn.com/problems/interleaving-string/ ) | []( src/p0097 ) |
 | 0102 | [Binary Tree Level Order Traversal]( https://leetcode-cn.com/problems/binary-tree-level-order-traversal/ ) | [Go/Python]( src/p0102 ) |
 | 0121 | [Best Time to Buy and Sell Stock]( https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/ ) | [Go]( src/p0121 ) |
 | 0151 | [Reverse Words in a String]( https://leetcode-cn.com/problems/reverse-words-in-a-string/ ) | [Go]( src/p0151 ) |
@@ -32,6 +47,9 @@
 | 0198 | [House Robber]( https://leetcode-cn.com/problems/house-robber/ ) | [Go]( src/p0198 ) |
 | 0221 | [Maximal Square]( https://leetcode-cn.com/problems/maximal-square/ ) | [Go]( src/p0221 ) |
 | 0225 | [Implement Stack using Queues]( https://leetcode-cn.com/problems/implement-stack-using-queues/ ) | []( src/p0225 ) |
+| 0238 | [Product of Array Except Self]( https://leetcode-cn.com/problems/product-of-array-except-self/ ) | [Go]( src/p0238 ) |
+| 0242 | [Valid Anagram]( https://leetcode-cn.com/problems/valid-anagram/ ) | [Go]( src/p0242 ) |
+| 0260 | [Single Number III]( https://leetcode-cn.com/problems/single-number-iii/ ) | []( src/p0260 ) |
 | 0263 | [丑数]( https://leetcode-cn.com/problems/ugly-number/ ) | [Python]( src/p0263 ) |
 | 0274 | [H-Index]( https://leetcode-cn.com/problems/h-index/ ) | [Python]( src/p0274 ) |
 | 0278 | [First Bad Version]( https://leetcode-cn.com/problems/first-bad-version/ ) | [Python]( src/p0278 ) |
@@ -48,6 +66,7 @@
 | 0380 | [常数时间插入、删除和获取随机元素]( https://leetcode-cn.com/problems/insert-delete-getrandom-o1/ ) | [Python]( src/p0380 ) |
 | 0382 | [Linked List Random Node]( https://leetcode-cn.com/problems/linked-list-random-node/ ) | [Python]( src/p0382 ) |
 | 0386 | [Lexicographical Numbers]( https://leetcode-cn.com/problems/lexicographical-numbers/ ) | [Python]( src/p0386 ) |
+| 0394 | [Decode String]( https://leetcode-cn.com/problems/decode-string/ ) | []( src/p0394 ) |
 | 0396 | [Rotate Function]( https://leetcode-cn.com/problems/rotate-function/ ) | [Python]( src/p0396 ) |
 | 0398 | [Random Pick Index]( https://leetcode-cn.com/problems/random-pick-index/ ) | [Python]( src/p0398 ) |
 | 0400 | [Nth Digit]( https://leetcode-cn.com/problems/nth-digit/ ) | [Python]( src/p0400 ) |
@@ -56,10 +75,12 @@
 | 0409 | [Longest Palindrome]( https://leetcode-cn.com/problems/longest-palindrome/ ) | [Go]( src/p0409 ) |
 | 0434 | [字符串中单词数]( https://leetcode-cn.com/problems/number-of-segments-in-a-string/ ) | [Python]( src/p0434 ) |
 | 0445 | [Add Two Numbers II]( https://leetcode-cn.com/problems/add-two-numbers-ii/ ) | [Go]( src/p0445 ) |
+| 0452 | [Minimum Number of Arrows to Burst Balloons]( https://leetcode-cn.com/problems/minimum-number-of-arrows-to-burst-balloons/ ) | [Go]( src/p0452 ) |
 | 0453 | [Minimum Moves to Equal Array Elements]( https://leetcode-cn.com/problems/minimum-moves-to-equal-array-elements/ ) | [Python]( src/p0453 ) |
 | 0455 | [Assign Cookies]( https://leetcode-cn.com/problems/assign-cookies/ ) | [Python]( src/p0455 ) |
 | 0457 | [Circular Array Loop]( https://leetcode-cn.com/problems/circular-array-loop/ ) | [Python]( src/p0457 ) |
 | 0459 | [Repeated Substring Pattern]( https://leetcode-cn.com/problems/repeated-substring-pattern/ ) | [Python]( src/p0459 ) |
+| 0460 | [LFU Cache]( https://leetcode-cn.com/problems/lfu-cache/ ) | []( src/p0460 ) |
 | 0461 | [Hamming Distance]( https://leetcode-cn.com/problems/hamming-distance/ ) | [Python]( src/p0461 ) |
 | 0462 | [Minimum Moves to Equal Array Elements II]( https://leetcode-cn.com/problems/minimum-moves-to-equal-array-elements-ii/ ) | [Python]( src/p0462 ) |
 | 0474 | [Ones and Zeroes]( https://leetcode-cn.com/problems/ones-and-zeroes/ ) | [Go]( src/p0474 ) |
@@ -73,6 +94,7 @@
 | 0590 | [N-ary Tree Postorder Traversal]( https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/ ) | [Python]( src/p0590 ) |
 | 0598 | [Range Addition II]( https://leetcode-cn.com/problems/range-addition-ii/ ) | [Python]( src/p0598 ) |
 | 0617 | [Merge Two Binary Trees]( https://leetcode-cn.com/problems/merge-two-binary-trees/ ) | [Python]( src/p0617 ) |
+| 0622 | [Design Circular Queue]( https://leetcode-cn.com/problems/design-circular-queue/ ) | []( src/p0622 ) |
 | 0630 | [Course Schedule III]( https://leetcode-cn.com/problems/course-schedule-iii/ ) | [Python]( src/p0630 ) |
 | 0637 | [Average of Levels in Binary Tree]( https://leetcode-cn.com/problems/average-of-levels-in-binary-tree/ ) | [Python]( src/p0637 ) |
 | 0657 | [Robot Return to Origin]( https://leetcode-cn.com/problems/robot-return-to-origin/ ) | [Go/Python]( src/p0657 ) |
@@ -84,6 +106,7 @@
 | 0718 | [Maximum Length of Repeated Subarray]( https://leetcode-cn.com/problems/maximum-length-of-repeated-subarray/ ) | [Go]( src/p0718 ) |
 | 0724 | [寻找数组的中心索引]( https://leetcode-cn.com/problems/find-pivot-index/ ) | [Python]( src/p0724 ) |
 | 0728 | [Self Dividing Numbers]( https://leetcode-cn.com/problems/self-dividing-numbers/ ) | [Python]( src/p0728 ) |
+| 0763 | [Partition Labels]( https://leetcode-cn.com/problems/partition-labels/ ) | [Go]( src/p0763 ) |
 | 0783 | [Minimum Distance Between BST Nodes]( https://leetcode-cn.com/problems/minimum-distance-between-bst-nodes/ ) | [Python]( src/p0783 ) |
 | 0786 | [K-th Smallest Prime Fraction]( https://leetcode-cn.com/problems/k-th-smallest-prime-fraction/ ) | [Python]( src/p0786 ) |
 | 0791 | [Custom Sort String]( https://leetcode-cn.com/problems/custom-sort-string/ ) | [Python]( src/p0791 ) |
@@ -114,6 +137,7 @@
 | 0942 | [DI String Match]( https://leetcode-cn.com/problems/di-string-match/ ) | [Python]( src/p0942 ) |
 | 0945 | [Minimum Increment to Make Array Unique]( https://leetcode-cn.com/problems/minimum-increment-to-make-array-unique/ ) | [Python]( src/p0945 ) |
 | 0949 | [Largest Time for Given Digits]( https://leetcode-cn.com/problems/largest-time-for-given-digits/ ) | [Python]( src/p0949 ) |
+| 0974 | [Subarray Sums Divisible by K]( https://leetcode-cn.com/problems/subarray-sums-divisible-by-k/ ) | []( src/p0974 ) |
 | 0983 | [Minimum Cost For Tickets]( https://leetcode-cn.com/problems/minimum-cost-for-tickets/ ) | [Go]( src/p0983 ) |
 | 0999 | [Available Captures for Rook]( https://leetcode-cn.com/problems/available-captures-for-rook/ ) | [Go]( src/p0999 ) |
 | 1013 | [Partition Array Into Three Parts With Equal Sum]( https://leetcode-cn.com/problems/partition-array-into-three-parts-with-equal-sum/ ) | [Go]( src/p1013 ) |
@@ -133,3 +157,5 @@
 | 1310 | [XOR Queries of a Subarray]( https://leetcode-cn.com/problems/xor-queries-of-a-subarray/ ) | [Go]( src/p1310 ) |
 | 1314 | [Matrix Block Sum]( https://leetcode-cn.com/problems/matrix-block-sum/ ) | [Go]( src/p1314 ) |
 | 1371 | [Find the Longest Substring Containing Vowels in Even Counts]( https://leetcode-cn.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/ ) | [Go]( src/p1371 ) |
+| 1457 | [Pseudo-Palindromic Paths in a Binary Tree]( https://leetcode-cn.com/problems/pseudo-palindromic-paths-in-a-binary-tree/ ) | [Go]( src/p1457 ) |
+| 1458 | [Max Dot Product of Two Subsequences]( https://leetcode-cn.com/problems/max-dot-product-of-two-subsequences/ ) | [Python]( src/p1458 ) |
