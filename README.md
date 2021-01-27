@@ -23,10 +23,12 @@
 | 0024 | [Swap Nodes in Pairs]( https://leetcode-cn.com/problems/swap-nodes-in-pairs/ ) | [Go/Python]( src/p0024 ) |
 | 0025 | [Reverse Nodes in k-Group]( https://leetcode-cn.com/problems/reverse-nodes-in-k-group/ ) | [Go]( src/p0025 ) |
 | 0026 | [Remove Duplicates from Sorted Array]( https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/ ) | [Go]( src/p0026 ) |
+| 0027 | [Remove Element]( https://leetcode-cn.com/problems/remove-element/ ) | [Go]( src/p0027 ) |
+| 0028 | [Implement strStr()]( https://leetcode-cn.com/problems/implement-strstr/ ) | [Go]( src/p0028 ) |
 | 0035 | [Search Insert Position]( https://leetcode-cn.com/problems/search-insert-position/ ) | [Go/Python]( src/p0035 ) |
 | 0042 | [Trapping Rain Water]( https://leetcode-cn.com/problems/trapping-rain-water/ ) | [Go]( src/p0042 ) |
 | 0048 | [Rotate Image]( https://leetcode-cn.com/problems/rotate-image/ ) | [Go]( src/p0048 ) |
-| 0049 | [Group Anagrams]( https://leetcode-cn.com/problems/group-anagrams/ ) | [Python]( src/p0049 ) |
+| 0049 | [Group Anagrams]( https://leetcode-cn.com/problems/group-anagrams/ ) | [Go/Python]( src/p0049 ) |
 | 0050 | [Pow(x, n)]( https://leetcode-cn.com/problems/powx-n/ ) | [Go/Python]( src/p0050 ) |
 | 0053 | [Maximum Subarray]( https://leetcode-cn.com/problems/maximum-subarray/ ) | [Go/Python]( src/p0053 ) |
 | 0055 | [Jump Game]( https://leetcode-cn.com/problems/jump-game/ ) | [Go]( src/p0055 ) |
@@ -41,11 +43,13 @@
 | 0121 | [Best Time to Buy and Sell Stock]( https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/ ) | [Go]( src/p0121 ) |
 | 0151 | [Reverse Words in a String]( https://leetcode-cn.com/problems/reverse-words-in-a-string/ ) | [Go]( src/p0151 ) |
 | 0160 | [Intersection of Two Linked Lists]( https://leetcode-cn.com/problems/intersection-of-two-linked-lists/ ) | [Go]( src/p0160 ) |
+| 0164 | [Maximum Gap]( https://leetcode-cn.com/problems/maximum-gap/ ) | [Go]( src/p0164 ) |
 | 0165 | [Compare Version Numbers]( https://leetcode-cn.com/problems/compare-version-numbers/ ) | [Python]( src/p0165 ) |
 | 0169 | [Majority Element]( https://leetcode-cn.com/problems/majority-element/ ) | [Go/Python]( src/p0169 ) |
 | 0187 | [Repeated DNA Sequences]( https://leetcode-cn.com/problems/repeated-dna-sequences/ ) | [Python]( src/p0187 ) |
 | 0198 | [House Robber]( https://leetcode-cn.com/problems/house-robber/ ) | [Go]( src/p0198 ) |
 | 0221 | [Maximal Square]( https://leetcode-cn.com/problems/maximal-square/ ) | [Go]( src/p0221 ) |
+| 0222 | [Count Complete Tree Nodes]( https://leetcode-cn.com/problems/count-complete-tree-nodes/ ) | [Go]( src/p0222 ) |
 | 0225 | [Implement Stack using Queues]( https://leetcode-cn.com/problems/implement-stack-using-queues/ ) | []( src/p0225 ) |
 | 0238 | [Product of Array Except Self]( https://leetcode-cn.com/problems/product-of-array-except-self/ ) | [Go]( src/p0238 ) |
 | 0242 | [Valid Anagram]( https://leetcode-cn.com/problems/valid-anagram/ ) | [Go]( src/p0242 ) |
@@ -77,6 +81,7 @@
 | 0445 | [Add Two Numbers II]( https://leetcode-cn.com/problems/add-two-numbers-ii/ ) | [Go]( src/p0445 ) |
 | 0452 | [Minimum Number of Arrows to Burst Balloons]( https://leetcode-cn.com/problems/minimum-number-of-arrows-to-burst-balloons/ ) | [Go]( src/p0452 ) |
 | 0453 | [Minimum Moves to Equal Array Elements]( https://leetcode-cn.com/problems/minimum-moves-to-equal-array-elements/ ) | [Python]( src/p0453 ) |
+| 0454 | [4Sum II]( https://leetcode-cn.com/problems/4sum-ii/ ) | [Go]( src/p0454 ) |
 | 0455 | [Assign Cookies]( https://leetcode-cn.com/problems/assign-cookies/ ) | [Python]( src/p0455 ) |
 | 0457 | [Circular Array Loop]( https://leetcode-cn.com/problems/circular-array-loop/ ) | [Python]( src/p0457 ) |
 | 0459 | [Repeated Substring Pattern]( https://leetcode-cn.com/problems/repeated-substring-pattern/ ) | [Python]( src/p0459 ) |
@@ -104,7 +109,7 @@
 | 0697 | [Degree of an Array]( https://leetcode-cn.com/problems/degree-of-an-array/ ) | [Python]( src/p0697 ) |
 | 0717 | [1-bit and 2-bit Characters]( https://leetcode-cn.com/problems/1-bit-and-2-bit-characters/ ) | [Python]( src/p0717 ) |
 | 0718 | [Maximum Length of Repeated Subarray]( https://leetcode-cn.com/problems/maximum-length-of-repeated-subarray/ ) | [Go]( src/p0718 ) |
-| 0724 | [寻找数组的中心索引]( https://leetcode-cn.com/problems/find-pivot-index/ ) | [Python]( src/p0724 ) |
+| 0724 | [Find Pivot Index]( https://leetcode-cn.com/problems/find-pivot-index/ ) | [Go/Python]( src/p0724 ) |
 | 0728 | [Self Dividing Numbers]( https://leetcode-cn.com/problems/self-dividing-numbers/ ) | [Python]( src/p0728 ) |
 | 0763 | [Partition Labels]( https://leetcode-cn.com/problems/partition-labels/ ) | [Go]( src/p0763 ) |
 | 0783 | [Minimum Distance Between BST Nodes]( https://leetcode-cn.com/problems/minimum-distance-between-bst-nodes/ ) | [Python]( src/p0783 ) |
@@ -156,6 +161,7 @@
 | 1282 | [Group the People Given the Group Size They Belong To]( https://leetcode-cn.com/problems/group-the-people-given-the-group-size-they-belong-to/ ) | [Python]( src/p1282 ) |
 | 1310 | [XOR Queries of a Subarray]( https://leetcode-cn.com/problems/xor-queries-of-a-subarray/ ) | [Go]( src/p1310 ) |
 | 1314 | [Matrix Block Sum]( https://leetcode-cn.com/problems/matrix-block-sum/ ) | [Go]( src/p1314 ) |
+| 1370 | [Increasing Decreasing String]( https://leetcode-cn.com/problems/increasing-decreasing-string/ ) | [Go]( src/p1370 ) |
 | 1371 | [Find the Longest Substring Containing Vowels in Even Counts]( https://leetcode-cn.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/ ) | [Go]( src/p1371 ) |
 | 1457 | [Pseudo-Palindromic Paths in a Binary Tree]( https://leetcode-cn.com/problems/pseudo-palindromic-paths-in-a-binary-tree/ ) | [Go]( src/p1457 ) |
 | 1458 | [Max Dot Product of Two Subsequences]( https://leetcode-cn.com/problems/max-dot-product-of-two-subsequences/ ) | [Python]( src/p1458 ) |
