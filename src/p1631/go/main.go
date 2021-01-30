@@ -69,8 +69,9 @@ func minimumEffortPath(heights [][]int) int {
 	for pq.Len() > 0 {
 		node = heap.Pop(pq).(Node)
 		if node.x == len(heights)-1 && node.y == len(heights[0])-1 {
-			return min(dList[len(dList)-1][len(dList[0])-1], node.d)
+			return dList[len(dList)-1][len(dList[0])-1]
 		}
+
 		for i := 0; i < 4; i++ {
 			a = move[i][0] + node.x
 			b = move[i][1] + node.y
@@ -79,7 +80,9 @@ func minimumEffortPath(heights [][]int) int {
 				continue
 			}
 
+			// 体力取最大的
 			midd = max(node.d, abs(heights[node.x][node.y]-heights[a][b]))
+			// 如果这条路径的所需要的体力小于之前的
 			if midd < dList[a][b] {
 				dList[a][b] = midd
 				heap.Push(pq, Node{x: a, y: b, d: dList[a][b]})
@@ -94,17 +97,6 @@ func minimumEffortPath(heights [][]int) int {
 func max(a int, nums ...int) int {
 	for i := 0; i < len(nums); i++ {
 		if nums[i] > a {
-			a = nums[i]
-		}
-	}
-
-	return a
-}
-
-// min 最小值
-func min(a int, nums ...int) int {
-	for i := 0; i < len(nums); i++ {
-		if nums[i] < a {
 			a = nums[i]
 		}
 	}
